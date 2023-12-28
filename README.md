@@ -8,7 +8,7 @@
         <img src="https://komarev.com/ghpvc/?username=aysh01&style=flat-square&color=blue" alt=""/>
 <h1>
   List of All my Internship Task done here
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media0.giphy.com/media/zgduo4kWRRDVK/200w.webp?cid=ecf05e47asppdhfha7ht2k4yx3ywxgeofftv5qjctf05hajk&ep=v1_gifs_search&rid=200w.webp&ct=g" width="30px"/>
 </h1>
     <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/><br>
