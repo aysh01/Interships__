@@ -11,7 +11,8 @@
   <img src="https://media3.giphy.com/media/c2ExMWXxqQANLHhlMt/200w.webp?cid=ecf05e47m162t823poxdn26fch43qn9bxiqwjgpjsusp8c5p&ep=v1_stickers_search&rid=200w.webp&ct=s" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://media0.giphy.com/media/zgduo4kWRRDVK/200w.webp?cid=ecf05e47asppdhfha7ht2k4yx3ywxgeofftv5qjctf05hajk&ep=v1_gifs_search&rid=200w.webp&ct=g" width="600" height="300"/><br>
+      <a href="https://github.com/aysh01/Interships__/tree/main/Intern"><!- To Be changed->
+  <img src="https://media0.giphy.com/media/zgduo4kWRRDVK/200w.webp?cid=ecf05e47asppdhfha7ht2k4yx3ywxgeofftv5qjctf05hajk&ep=v1_gifs_search&rid=200w.webp&ct=g" width="600" height="300"/></a><br>
       <hr>
       <div align="left">
 :woman_technologist: <br>First, solve the problem. Then, write the code. – John Johnson..<br>
