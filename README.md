@@ -14,7 +14,7 @@
   <img src="https://media0.giphy.com/media/zgduo4kWRRDVK/200w.webp?cid=ecf05e47asppdhfha7ht2k4yx3ywxgeofftv5qjctf05hajk&ep=v1_gifs_search&rid=200w.webp&ct=g" width="600" height="300"/><br>
       <hr>
       <div align="left">
-:woman_technologist: First, solve the problem. Then, write the code. – John Johnson..<br>
+:woman_technologist: <br>First, solve the problem. Then, write the code. – John Johnson..<br>
       I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 :mailbox:How to reach me: <a href="https://www.linkedin.com/in/aayush-kantak-88a7b4271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
